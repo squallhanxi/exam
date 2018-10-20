@@ -1,0 +1,18 @@
+F:\visual studio 2010 Projects\exam\exam\exam\bin\Debug\exam.exe
+F:\visual studio 2010 Projects\exam\exam\exam\bin\Debug\exam.pdb
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\exam.mainForm.resources
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\exam.Properties.Resources.resources
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\exam.exe
+F:\visual studio 2010 Projects\exam\exam\exam\obj\x86\Debug\exam.pdb
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\exam.exe
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\exam.pdb
+F:\我的项目\C#\exam\exam\exam\bin\Debug\exam.exe
+F:\我的项目\C#\exam\exam\exam\bin\Debug\exam.pdb
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\exam.mainForm.resources
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\exam.Properties.Resources.resources
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\我的项目\C#\exam\exam\exam\obj\x86\Debug\GenerateResource.write.1.tlog
